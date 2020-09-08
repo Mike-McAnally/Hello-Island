@@ -2,6 +2,6 @@
 
 <img src="https://rocketvirtual.com/images/The_Island.png">
 
-The Island is a "virtual reality space" that only exists electronically as ones and zeros, <a href="https://rocketvirtual.com/TheIsland.html" >yet you can still visit it</a>!  Currently it is manifest through Three.js and A-frame version 1.0.1 WebXR technology. If no VR headset, use keyboard arrow keys and mouse drag to move around in 360°.
+The Island is a "virtual reality space" that only exists electronically as ones and zeros, yet you can still visit it!  Currently it is manifest through Three.js and A-frame version 1.0.4 WebXR technology.
 
-You can find more of my VR projects at the Rocket Virtual <a href="https://rocketvirtual.com/">blog</a>.
+You can find out more at the Rocket Virtual <a href="https://rocketvirtual.com/">blog</a>.
